@@ -1,9 +1,9 @@
 
-<div>
-  <img src="https://github.com/MasonSlover/MasonSlover/blob/master/output.gif" alt="Hello coder welcome! 👋">
+<div align="center">
+  ### Hello coder welcome 👋
 </div>
 
-<div>
+<div align="center">
   
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=edgarbizarro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   
