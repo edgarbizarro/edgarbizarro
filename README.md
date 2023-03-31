@@ -1,6 +1,7 @@
-### Hello coder welcome 👋
 
-
+<div>
+  <img src="https://github.com/MasonSlover/MasonSlover/blob/master/output.gif" alt="Hello coder welcome! 👋">
+</div>
 
 <div>
   
@@ -35,8 +36,9 @@
     </a>
 </div>
   
+<!--
 ![Snake animation](https://github.com/LuigiGF/edgarbizarro/blob/output/github-contribution-grid-snake.svg)
-
+-->
 
 
 
