@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👨‍💻 Hey, I'm Edgar Bizarro! Welcome to my Dev Space 🚀</h1>
-  <p>Crafting robust web applications with Laravel, Livewire, and modern tech stacks.</p>
+  <p>Crafting web applications with Laravel, Livewire, and modern tech stacks.</p>
 </div>
 
 ---
